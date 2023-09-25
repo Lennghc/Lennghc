@@ -1,6 +1,9 @@
 ### Hi there 👋
 <img src="https://github-readme-stats.vercel.app/api?username=Lennghc&theme=vue-dark&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lennghc&theme=vue-dark&show_icons=true" />
+
+# What am I doing now 🤔?
+[![Discord Presence](https://discord-readme-badge.vercel.app/api?id=286922862353317888&theme=dracula)](https://discord.com/users/286922862353317888)
 <!--
 **Lennghc/Lennghc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
